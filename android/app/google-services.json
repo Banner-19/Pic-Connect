@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8675328586",
+    "project_id": "pic-connect",
+    "storage_bucket": "pic-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8675328586:android:3651d61653d9919d26dcb3",
+        "android_client_info": {
+          "package_name": "com.example.picconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhnfQ2syLsAcckU4Fe60kDLJy8Q7zFVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
